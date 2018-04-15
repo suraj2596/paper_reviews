@@ -1,5 +1,5 @@
-#Review : Linear Representations by back-propagating errors
-######David E. Rumelhart, Geoffrey Hinton & Ronald J. Williams
+# Review : Linear Representations by back-propagating errors
+###### David E. Rumelhart, Geoffrey Hinton & Ronald J. Williams
 
 
 ##Abstract:
