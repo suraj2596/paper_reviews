@@ -26,3 +26,5 @@ Though this can be used in a loop to propogate the learning back, we lose the ad
 TD(0) seems to be faster while data is presented repeatedly. Though this process doesn't give perfect or universal results, it is better tha supervised learning. Usually, if data is repeatedly presented, it would overfit and could not be generalized.
 
 An absorbing markov model is used to model the sequential data. probabilities of various states is taken based on maximum likelihood from previous experiences.
+
+For TD methods to work, the sequential data is a must. This kind of learning is highly suitable for real time scenarios. Infact, this is how our brain works in recognizinf objects. We dont try to identify an object from scratch everytime. Instead we start with an object of similar characteristics and then we work our way on. 
